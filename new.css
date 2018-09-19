@@ -1,0 +1,70 @@
+div{
+	border:5px dashed gold;
+	padding:10px 20px;
+	margin:10px;
+	color:white; 
+ }
+button:hover{
+background-color:purple; 
+}
+button:active{
+	background-color:orange;  
+}
+div:hover{
+	background-color:red;}
+h1{
+	color: pink;
+	background-color:blue;
+	padding:10px 20px;
+	border: 20px solid black;   
+}
+button{color:blue;
+background-color:pink;
+border:10px solid purple;  }
+button:focus{
+	outline:none;
+}
+body{
+	color:silver;
+	background-color:brown;  
+}
+h3{
+	font-weight:100px thick;
+	border: 5px double;
+	color:gold;
+	padding: 5px; 
+}
+
+p{
+	font-weight:bolder;
+	color:silver;
+	border:10px solid green;
+	padding:10;   
+}
+em:hover{color:gold;
+	 }
+	 P::FIRST LETTER{
+	 	font-weight:50px;
+	 	color:gold;  
+	 }
+	 h1:hover{
+	 	background:yellow;
+	 	color:pink; 
+	 }
+	 h3:hover{
+	 	color:orange;
+	 	background-color:red; 
+	 }
+	 button{size:20px; }
+	 p:hover{
+	 	color:red;
+	 	background-color:yellow; 
+	 }
+	 body{
+	 	background-image:url("fallen-leaves.jpg"); 
+	 }
+	 h5{font-weight:100px;
+	 font-size:italic;  }
+	
+
+	 
